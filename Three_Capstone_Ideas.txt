@@ -1,4 +1,4 @@
-Capstone Write-Up 2/21/2018
+Capstone Write-Up 2/21/2018  Updated: 3/7/2018
 
 1) Hospital Readmissions and Home Health Care Quality:  Readmissions to a hospital after receiving initial services can be both costly and stressful for a patient dealing with a temporary illness or chronic disease.  This capstone would focus on the relationships between hospital readmission rates and positive, negative, or neutral Home Health Care Quality surveys.
 Data:
