@@ -11,4 +11,4 @@ https://catalog.data.gov/dataset/home-health-care-agencies-c1765
 3) Obesity and Health Insurance Incentives:  Obesity has scientifically been linked to chronic illness and increased utilization of health-care reasources.  Currently health insurance companies have offered refunds on gym membership to incentivize their members to increase physical activity.  This capstone asks if there are other factors to obesity that health insurance companies could build incentives around to reduce obesity, and subsequently health care utilization.
 Data:
 https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system
-testing
+
